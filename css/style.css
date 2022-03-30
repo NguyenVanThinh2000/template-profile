@@ -194,7 +194,7 @@ p{
 
 /* greeting section  */
 #greeting{
-    background-image: url(./template-profile/img/hero-bg.png);
+    background-image: url(/master/img/hero-bg.png);
     background-size: cover;
     background-position: top center;
     position: relative;
