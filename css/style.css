@@ -274,7 +274,7 @@ p{
     color: black;
     text-transform: uppercase;
     letter-spacing: .2rem;
-    text-align: center;
+    text-align: center;	
 }
 .section-title span{
     color: crimson;
@@ -308,7 +308,7 @@ p{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(/img/img-1.png);
+    background-image: url(../img/img-1.png);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
